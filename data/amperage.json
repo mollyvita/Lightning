@@ -33,10 +33,10 @@
     },
 	{
         "name": "2816mA",
-        "value": "u32!0xb00"
+        "value": "u32!0xB00"
     },
     {
         "name": "3072mA",
-        "value": "u32!0xBB8"
+        "value": "u32!0xC00"
     }
 ]
