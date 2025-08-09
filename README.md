@@ -19,7 +19,7 @@ The `package.ini` file contains the following configurations:
 - 1536 mA
 - 1660 mA (Default for Switch Lite)
 - 1792 mA
-- 2048 mA (Default for Rev 1 and OLED)
+- 2048 mA (Default for rev.1, rev.2 and OLED)
 - 2304 mA
 - 2560 mA
 - 3072 mA (Extreme value! Be **especially** careful with this one.)
