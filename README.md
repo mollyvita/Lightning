@@ -24,7 +24,8 @@ The `package.ini` file contains the following configurations:
 - 2560 mA
 - 3072 mA (Extreme value! Be **especially** careful with this one.)
 
-### BE CAREFUL ABOUT THE TEMPERATURE PCB AND BATTERY
+> [!WARNING]
+> BE CAREFUL WITH THE PCB'S TEMPERATURE AND BATTERY!
 
 ## Installation
 To install `Lightning`:
