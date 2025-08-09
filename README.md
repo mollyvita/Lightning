@@ -9,16 +9,23 @@ Russian README is located [here](README_RU.md).
 
 ## Configuration
 The `package.ini` file contains the following configurations:
-- `Charge amperage`: Change charging amperage for your console.
+- `Charge amp`: Change charging amperage for your console.
 - `Reset`: Restore default value.
 - `Complete (Reboot)`: A quick shortcut for rebooting, which is required to apply the changes.
 
 ### Amperage values:
-- 1.5A
-- 1.6A (Default for Switch Lite)
-- 2.0A (Default for other consoles)
-- 2.5A
-- 3.0A (Extreme value! Be **especially** careful with this one.)
+- 1024 mA
+- 1280 mA
+- 1536 mA
+- 1660 mA (Default for Switch Lite)
+- 1792 mA
+- 2048 mA (Default for rev.1, rev.2 and OLED)
+- 2304 mA
+- 2560 mA
+- 3072 mA (Extreme value! Be **especially** careful with this one.)
+
+> [!WARNING]
+> BE CAREFUL WITH THE PCB'S TEMPERATURE AND BATTERY!
 
 ## Installation
 To install `Lightning`:

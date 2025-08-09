@@ -1,22 +1,42 @@
 [
     {
-        "name": "1.5A",
+        "name": "1024mA",
+        "value": "u32!0x400"
+    },
+	{
+        "name": "1280mA",
+        "value": "u32!0x500"
+    },
+	{
+        "name": "1536mA",
         "value": "u32!0x600"
     },
     {
-        "name": "1.6A (Lite Default)",
+        "name": "1660mA (Lite Default)",
         "value": "u32!0x67C"
     },
+	{
+        "name": "1792mA",
+        "value": "u32!0x700"
+    },
     {
-        "name": "2A (Default)",
+        "name": "2048mA (Default)",
         "value": "u32!0x800"
     },
-    {
-        "name": "2.5A",
-        "value": "u32!0xA00"
+	{
+        "name": "2304mA",
+        "value": "u32!0x900"
     },
     {
-        "name": "3A",
-        "value": "u32!0xBB8"
+        "name": "2560mA",
+        "value": "u32!0xA00"
+    },
+	{
+        "name": "2816mA",
+        "value": "u32!0xB00"
+    },
+    {
+        "name": "3072mA",
+        "value": "u32!0xC00"
     }
 ]
